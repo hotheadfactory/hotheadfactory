@@ -31,7 +31,7 @@ that's why my effort to be a good developer is heavily project-oriented.
 
 ### Contact Me
 ✉️ commaniakr@gmail.com <br>
-🏠 [h2f.kr](https://h2f.kr) <br>
-📄 [hotheadfactory.com](https://hotheadfactory.com) <br>
+🏠 [hotheadfactory.com](https://hotheadfactory.com) <br>
+📄 [blog.h2f.kr](https://blog.h2f.kr) <br>
 
 ![Hotheadfactory's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotheadfactory&show_icons=true&theme=radical)
